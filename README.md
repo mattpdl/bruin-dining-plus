@@ -1,7 +1,7 @@
 # Bruin Dining+
 A more beautiful and insightful way to dine on the Hill--a new UCLA Dining app with crowdsourced images and ratings for menu items
 
-![Screenshot of Bruin Dining Plus running on Android](https://mattpdl.github.io/bruin-dining-plus.png)
+<img alt="Screenshot of the Bruin Dining Plus app running on Android and displaying the De Neve Dining Hall menu" src="https://mattpdl.github.io/bruin-dining-plus.png" width="50%">
 
 ## Inspiration
 It's no fun going to a dining hall and being surprised or disappointed by the food.
