@@ -1,5 +1,6 @@
 # Bruin Dining+
 A more beautiful and insightful way to dine on the Hill--a new UCLA Dining app with crowdsourced images and ratings for menu items
+
 ![Screenshot of Bruin Dining Plus running on Android](https://mattpdl.github.io/bruin-dining-plus.png)
 
 ## Inspiration
